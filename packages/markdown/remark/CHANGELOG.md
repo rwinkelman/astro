@@ -1,5 +1,11 @@
 # @astrojs/markdown-remark
 
+## 7.3.2
+
+### Patch Changes
+
+- [#18139](https://github.com/withastro/astro/pull/18139) [`d047b5c`](https://github.com/withastro/astro/commit/d047b5c23c273d993470258a84bf71852889c76e) Thanks [@breken-ai](https://github.com/breken-ai)! - Fixes Markdown code blocks with languages ending in a symbol, such as `c#`, `c++`, and `f#`, being highlighted as `c` or `f`
+
 ## 7.3.1
 
 ### Patch Changes
